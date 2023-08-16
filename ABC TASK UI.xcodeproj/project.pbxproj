@@ -18,6 +18,7 @@
 		EB6D47FB2A862FC8005E6386 /* ListItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB6D47FA2A862FC8005E6386 /* ListItems.swift */; };
 		EBA0A00F2A8638F4000F0745 /* ListItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0A00E2A8638F4000F0745 /* ListItemRow.swift */; };
 		EBA0A0112A863B56000F0745 /* PaginationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA0A0102A863B55000F0745 /* PaginationController.swift */; };
+		EBAEAFB32A8C9DAC00CAC741 /* ListData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBAEAFB22A8C9DAC00CAC741 /* ListData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		EB6D47FA2A862FC8005E6386 /* ListItems.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItems.swift; sourceTree = "<group>"; };
 		EBA0A00E2A8638F4000F0745 /* ListItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemRow.swift; sourceTree = "<group>"; };
 		EBA0A0102A863B55000F0745 /* PaginationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaginationController.swift; sourceTree = "<group>"; };
+		EBAEAFB22A8C9DAC00CAC741 /* ListData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				EBA0A00E2A8638F4000F0745 /* ListItemRow.swift */,
 				EBA0A0102A863B55000F0745 /* PaginationController.swift */,
 				EB6D47FA2A862FC8005E6386 /* ListItems.swift */,
+				EBAEAFB22A8C9DAC00CAC741 /* ListData.swift */,
 				EB6D47D22A860EF8005E6386 /* Assets.xcassets */,
 				EB6D47D42A860EF8005E6386 /* Preview Content */,
 			);
@@ -271,6 +274,7 @@
 			files = (
 				EB6D47FB2A862FC8005E6386 /* ListItems.swift in Sources */,
 				EBA0A00F2A8638F4000F0745 /* ListItemRow.swift in Sources */,
+				EBAEAFB32A8C9DAC00CAC741 /* ListData.swift in Sources */,
 				EB6D47D12A860EF7005E6386 /* ContentView.swift in Sources */,
 				EB6D47CF2A860EF7005E6386 /* ABC_TASK_UIApp.swift in Sources */,
 				EB6D47F92A860F4C005E6386 /* SearchBar.swift in Sources */,

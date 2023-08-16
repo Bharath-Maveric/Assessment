@@ -16,7 +16,6 @@ struct SearchBarView: View {
             TextField("Search", text: $searchText, onEditingChanged: { editing in
                 isSearching = editing
             }, onCommit: {
-                // Perform search logic here
             })
             .padding(.vertical, 10)
             .padding(.horizontal, 20)
