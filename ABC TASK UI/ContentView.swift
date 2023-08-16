@@ -12,8 +12,6 @@ struct ContentView: View {
     @State private var isSearching = false
     @State private var selectedImageIndex = 0
     
-//    let images = ["Image1", "Image2", "Image3"]
-    
     var body: some View {
         NavigationView {
             ScrollView {
@@ -54,17 +52,6 @@ struct ContentView: View {
                                 .padding()
                         }
                     }
-//                    VStack {
-//                        if filteredListItems.count == 0 {
-//                            HStack {
-//                                Spacer()
-//                                Text("No Data Found")
-//                                    .padding()
-//                                Spacer()
-//                            }
-//
-//                        }
-//                    }
                     .background(Color.white)
                     
                 }
